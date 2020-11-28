@@ -7,10 +7,10 @@ body{
     background-color: #2F3437;
     text-align: center;
     font-size: 1em;
-    font-family:'Ma Shan Zheng', sans-serif ;
-    font-family:Georgia, 'Caveat', Times, serif;
+    font-family:Ma Shan Zheng, sans-serif ;
+    font-family:Caveat, 'Times New Roman', Times, serif;
 }
 button{
-    font-family: Georgia, 'Caveat', Times, serif;
+    font-family: Caveat, 'Times New Roman', Times, serif;
     text-align: center;
 }
