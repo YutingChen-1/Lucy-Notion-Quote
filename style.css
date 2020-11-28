@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 body{
     height: 500px, 100%;
     width: 300px, 100%;
@@ -6,10 +7,10 @@ body{
     background-color: #2F3437;
     text-align: center;
     font-size: 1em;
-    font-family:'Noto', sans-serif ;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:'Ma Shan Zheng', sans-serif ;
+    font-family:Georgia, 'Caveat', Times, serif;
 }
 button{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Caveat', Times, serif;
     text-align: center;
 }
