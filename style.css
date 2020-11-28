@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+body{
+    height: 500px, 100%;
+    width: 300px, 100%;
+    color: #EBEBEB;
+    background-color: #2F3437;
+    text-align: center;
+    font-size: 1em;
+    font-family:'Noto', sans-serif ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
