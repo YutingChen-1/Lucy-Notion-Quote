@@ -3,13 +3,12 @@
 body{
     height: 500px, 100%;
     width: 300px, 100%;
-    color: #EBEBEB;
-    background-color: #2F3437;
+    background-color: #FFFFFF;
     text-align: center;
     font-size: 1em;
-    font-family: Ma Shan Zheng, cursive ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 button{
-    font-family: Caveat, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
